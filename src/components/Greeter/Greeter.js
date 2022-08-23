@@ -1,10 +1,10 @@
 import React from 'react';
 import './Greeter.css';
 
-const Greeter = () => (
+const ToDo = () => (
   <div className="Greeter">
-    Greeter Component
+    <h1>To-Do list</h1>
   </div>
 );
 
-export default Greeter;
+export default ToDo;

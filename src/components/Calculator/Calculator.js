@@ -1,5 +1,4 @@
 import { useState } from "react";
-import './Calculator.css'
 
 function Calculator() {
   let [calc, setCalc] = useState("");
