@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/router/static/css/main.e398ac79.css",
+    "main.js": "/router/static/js/main.ae74344e.js",
+    "static/media/meme.jpg": "/router/static/media/meme.f599099303fd0cc87076.jpg",
+    "static/media/veziai.webp": "/router/static/media/veziai.bce642ff9871b3a00e79.webp",
+    "index.html": "/router/index.html",
+    "main.e398ac79.css.map": "/router/static/css/main.e398ac79.css.map",
+    "main.ae74344e.js.map": "/router/static/js/main.ae74344e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e398ac79.css",
+    "static/js/main.ae74344e.js"
+  ]
+}

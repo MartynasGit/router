@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
 import Calculator from './components/Calculator/Calculator';
@@ -13,7 +13,7 @@ import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -23,9 +23,9 @@ function App() {
         </Route>
         <Route path="/greeter" element={<ToDo />} />
         <Route path="/calculator" element={<Calculator />} />
-        <Route path="*" element={<NotFound/>} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
