@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "title": "Dixie Will",
+      "text": "Chief Interactions Engineer",
+      "id": 17
+    },
+    {
+      "title": "Jennifer Hilll",
+      "text": "Central Configuration Consultant",
+      "id": 18
+    },
+    {
+      "title": "Clinton Torp PhD",
+      "text": "Central Interactions Director",
+      "id": 19
+    },
+    {
+      "title": "Jean Botsford",
+      "text": "Lead Directives Manager",
+      "id": 20
+    },
+    {
+      "title": "Perry Spencer",
+      "text": "Legacy Accounts Designer",
+      "id": 21
+    }
+  ],
+  "comments": []
+}

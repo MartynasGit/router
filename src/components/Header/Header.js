@@ -32,6 +32,12 @@ const Header = () => (
             <Link className="nav-link" to="/calculator">
               Calculator
             </Link>
+            <Link className="nav-link" to="/tdl">
+              ToDoList
+            </Link>
+            <Link className="nav-link" to="/blog">
+              BlogPosts
+            </Link>
           </div>
         </div>
       </div>
